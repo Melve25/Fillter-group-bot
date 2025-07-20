@@ -1,0 +1,25 @@
+# Файл с секретами и переменными окружения
+.env
+
+# Python-сгенерированные файлы
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Виртуальные окружения
+.venv
+venv
+env
+
+# Файлы IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
